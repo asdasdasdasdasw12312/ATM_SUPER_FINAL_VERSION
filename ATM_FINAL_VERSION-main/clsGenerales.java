@@ -1,4 +1,5 @@
 import javax.swing.JOptionPane;
+// esta clase solo es para leer datos por eso esta en español :(
 public class clsGenerales{
 
     public clsGenerales(){
